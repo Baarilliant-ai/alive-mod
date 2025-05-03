@@ -63,7 +63,7 @@ The villager will respond based on their profession, personality, and the mode y
 
 [Explore our Getting Started Guide]({{ site.baseurl }}/getting-started/) for detailed installation and usage instructions.
 
-### AI Functions
+### Capabilities
 
 The mod includes several special abilities that enhance your interactions with villagers:
 
@@ -74,7 +74,7 @@ The mod includes several special abilities that enhance your interactions with v
 - **Mod Info**: Learn about the mod from villagers
 - **Open Trade Menu**: Easily access a villager's trades during conversation
 
-[Read more about AI Functions]({{ site.baseurl }}/ai-functions/)
+[Read more about Capabilities]({{ site.baseurl }}/capabilities/)
 
 ### Villager Traits
 
@@ -92,14 +92,14 @@ Every villager has a unique personality based on their profession! Each villager
 
 ## Detailed Documentation
 
-### AI Functions
+### Capabilities
 
-- [Chat Links]({{ site.baseurl }}/functions/CHAT_LINKS)
-- [Correct Answer]({{ site.baseurl }}/functions/CORRECT_ANSWER)
-- [Goodbye]({{ site.baseurl }}/functions/GOODBYE)
-- [Look Around]({{ site.baseurl }}/functions/LOOK_AROUND)
-- [Mod Info]({{ site.baseurl }}/functions/MOD_INFO)
-- [Open Trade Menu]({{ site.baseurl }}/functions/OPEN_TRADE)
+- [Chat Links]({{ site.baseurl }}/capabilities/CHAT_LINKS)
+- [Correct Answer]({{ site.baseurl }}/capabilities/CORRECT_ANSWER)
+- [Goodbye]({{ site.baseurl }}/capabilities/GOODBYE)
+- [Look Around]({{ site.baseurl }}/capabilities/LOOK_AROUND)
+- [Mod Info]({{ site.baseurl }}/capabilities/MOD_INFO)
+- [Open Trade Menu]({{ site.baseurl }}/capabilities/OPEN_TRADE)
 
 ### Villager Traits
 

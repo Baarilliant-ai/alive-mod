@@ -16,7 +16,7 @@ Alive brings villagers to life through AI conversations and enhances both the ut
 
 ## Key Features
 
-- **AI-Powered Conversations**: Talk naturally with villagers about anything in the Minecraft world
+- **Intelligent Conversations**: Talk naturally with villagers about anything in the Minecraft world
 - **Profession-Based Knowledge**: Villagers have expertise based on their profession
 - **Custom Prompts**: Create custom personalities and backstories for named villagers
 - **World Building**: Set global prompts that apply to all unnamed villagers

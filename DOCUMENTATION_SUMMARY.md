@@ -2,17 +2,17 @@
 
 ## Overview
 
-This documentation provides player-friendly guides for the Alive mod's features, focusing on AI functions and villager traits. The documentation is designed to be easy to understand for game players without technical jargon.
+This documentation provides player-friendly guides for the Alive mod's features, focusing on capabilities and villager traits. The documentation is designed to be easy to understand for game players without technical jargon.
 
 ## Documentation Structure
 
 ### Main Overview Files
 
 - **README.md**: Main overview and navigation hub
-- **AI_FUNCTIONS.md**: Detailed explanation of all AI functions
+- **CAPABILITIES.md**: Detailed explanation of all villager capabilities
 - **VILLAGER_TRAITS.md**: Comprehensive guide to the villager traits system
 
-### AI Functions Documentation
+### Capabilities Documentation
 
 Detailed guides for each function:
 
@@ -40,7 +40,7 @@ Overview and profession-specific trait guides:
 
 ## Key Features Explained
 
-### AI Functions
+### Capabilities
 
 The documentation explains how villagers can:
 
@@ -68,8 +68,8 @@ The documentation covers how each villager has unique:
 Players can:
 
 1. Start with the main README.md for an overview
-2. Explore AI_FUNCTIONS.md to learn about special abilities
+2. Explore CAPABILITIES.md to learn about special abilities
 3. Read VILLAGER_TRAITS.md to understand the personality system
-4. Dive into specific function or profession files for detailed information
+4. Dive into specific capability or profession files for detailed information
 
 This documentation helps players get the most out of the Alive mod by understanding how to interact with villagers in more meaningful ways and discover the depth of personality and functionality the mod adds to Minecraft villages.

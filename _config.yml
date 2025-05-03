@@ -45,7 +45,7 @@ heading_anchors: true
 
 # Collections for organizing content
 collections:
-  functions:
+  capabilities:
     permalink: '/:collection/:path/'
     output: true
   villager_traits:
@@ -56,10 +56,10 @@ collections:
 defaults:
   - scope:
       path: ''
-      type: 'functions'
+      type: 'capabilities'
     values:
       layout: 'page'
-      parent: 'AI Functions'
+      parent: 'Capabilities'
   - scope:
       path: ''
       type: 'villager_traits'

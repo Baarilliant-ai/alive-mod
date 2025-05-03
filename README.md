@@ -7,19 +7,19 @@ Welcome to the official documentation for the Alive Mod for Minecraft! This docu
 This documentation is organized into several sections:
 
 - **[Home](index.md)**: Overview and getting started guide
-- **[AI Functions](AI_FUNCTIONS.md)**: Special abilities that enhance villager interactions
+- **[Capabilities](CAPABILITIES.md)**: Special abilities that enhance villager interactions
 - **[Villager Traits](VILLAGER_TRAITS.md)**: Unique personalities for each villager profession
 
-### AI Functions
+### Capabilities
 
 Learn about the special abilities that make villagers more interactive:
 
-- [Chat Links](functions/CHAT_LINKS.md): Suggested responses during conversations
-- [Correct Answer](functions/CORRECT_ANSWER.md): Answer questions for rewards
-- [Goodbye](functions/GOODBYE.md): End conversations properly
-- [Look Around](functions/LOOK_AROUND.md): Ask about surroundings
-- [Mod Info](functions/MOD_INFO.md): Learn about the mod
-- [Open Trade Menu](functions/OPEN_TRADE.md): Access trades during conversation
+- [Chat Links](capabilities/CHAT_LINKS.md): Suggested responses during conversations
+- [Correct Answer](capabilities/CORRECT_ANSWER.md): Answer questions for rewards
+- [Goodbye](capabilities/GOODBYE.md): End conversations properly
+- [Look Around](capabilities/LOOK_AROUND.md): Ask about surroundings
+- [Mod Info](capabilities/MOD_INFO.md): Learn about the mod
+- [Open Trade Menu](capabilities/OPEN_TRADE.md): Access trades during conversation
 
 ### Villager Traits
 
