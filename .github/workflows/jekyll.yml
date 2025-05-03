@@ -38,7 +38,6 @@ jobs:
           bundler-cache: true
       - name: Install dependencies
         run: |
-          cd docs
           gem install jekyll bundler
           gem install just-the-docs
           gem install jekyll-remote-theme
