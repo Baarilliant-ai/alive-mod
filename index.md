@@ -52,23 +52,23 @@ Every villager has a unique personality based on their profession! Each villager
 
 ### AI Functions
 
-- [Chat Links]({{ site.baseurl }}/functions/CHAT_LINKS/)
-- [Correct Answer]({{ site.baseurl }}/functions/CORRECT_ANSWER/)
-- [Goodbye]({{ site.baseurl }}/functions/GOODBYE/)
-- [Look Around]({{ site.baseurl }}/functions/LOOK_AROUND/)
-- [Mod Info]({{ site.baseurl }}/functions/MOD_INFO/)
-- [Open Trade Menu]({{ site.baseurl }}/functions/OPEN_TRADE/)
+- [Chat Links]({{ site.baseurl }}/functions/CHAT_LINKS)
+- [Correct Answer]({{ site.baseurl }}/functions/CORRECT_ANSWER)
+- [Goodbye]({{ site.baseurl }}/functions/GOODBYE)
+- [Look Around]({{ site.baseurl }}/functions/LOOK_AROUND)
+- [Mod Info]({{ site.baseurl }}/functions/MOD_INFO)
+- [Open Trade Menu]({{ site.baseurl }}/functions/OPEN_TRADE)
 
 ### Villager Traits
 
-- [Trait System Overview]({{ site.baseurl }}/villager_traits/OVERVIEW/)
-- [Farmer Traits]({{ site.baseurl }}/villager_traits/FARMER/)
-- [Librarian Traits]({{ site.baseurl }}/villager_traits/LIBRARIAN/)
-- [Cleric Traits]({{ site.baseurl }}/villager_traits/CLERIC/)
-- [Armorer Traits]({{ site.baseurl }}/villager_traits/ARMORER/)
-- [Fisherman Traits]({{ site.baseurl }}/villager_traits/FISHERMAN/)
-- [Shepherd Traits]({{ site.baseurl }}/villager_traits/SHEPHERD/)
-- [Nitwit Traits]({{ site.baseurl }}/villager_traits/NITWIT/)
+- [Trait System Overview]({{ site.baseurl }}/villager_traits/OVERVIEW)
+- [Farmer Traits]({{ site.baseurl }}/villager_traits/FARMER)
+- [Librarian Traits]({{ site.baseurl }}/villager_traits/LIBRARIAN)
+- [Cleric Traits]({{ site.baseurl }}/villager_traits/CLERIC)
+- [Armorer Traits]({{ site.baseurl }}/villager_traits/ARMORER)
+- [Fisherman Traits]({{ site.baseurl }}/villager_traits/FISHERMAN)
+- [Shepherd Traits]({{ site.baseurl }}/villager_traits/SHEPHERD)
+- [Nitwit Traits]({{ site.baseurl }}/villager_traits/NITWIT)
 - And more...
 
 Enjoy getting to know your villagers in a whole new way with the Alive mod!

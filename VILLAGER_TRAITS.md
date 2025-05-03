@@ -44,13 +44,13 @@ Villagers have many different trait categories that define who they are:
 
 Each profession has its own unique set of traits that reflect their role in the village:
 
-- [Farmer Traits]({{ site.baseurl }}/villager_traits/FARMER/)
-- [Librarian Traits]({{ site.baseurl }}/villager_traits/LIBRARIAN/)
-- [Cleric Traits]({{ site.baseurl }}/villager_traits/CLERIC/)
-- [Armorer Traits]({{ site.baseurl }}/villager_traits/ARMORER/)
-- [Fisherman Traits]({{ site.baseurl }}/villager_traits/FISHERMAN/)
-- [Nitwit Traits]({{ site.baseurl }}/villager_traits/NITWIT/)
-- [Shepherd Traits]({{ site.baseurl }}/villager_traits/SHEPHERD/)
+- [Farmer Traits]({{ site.baseurl }}/villager_traits/FARMER)
+- [Librarian Traits]({{ site.baseurl }}/villager_traits/LIBRARIAN)
+- [Cleric Traits]({{ site.baseurl }}/villager_traits/CLERIC)
+- [Armorer Traits]({{ site.baseurl }}/villager_traits/ARMORER)
+- [Fisherman Traits]({{ site.baseurl }}/villager_traits/FISHERMAN)
+- [Nitwit Traits]({{ site.baseurl }}/villager_traits/NITWIT)
+- [Shepherd Traits]({{ site.baseurl }}/villager_traits/SHEPHERD)
 
 ## How to Discover Traits
 
