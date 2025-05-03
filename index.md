@@ -5,17 +5,7 @@ nav_order: 1
 permalink: /
 ---
 
-# Alive Mod: Player's Guide
-
-Welcome to the Alive Mod for Minecraft! This guide will help you understand all the amazing features that bring your villagers to life through AI conversations and enhance both the utility and narrative depth of your game.
-
-{: .fs-6 .fw-300 }
-Discover how the Alive Mod transforms your Minecraft villagers into unique individuals with personalities, backstories, and the ability to engage in meaningful conversations.
-
-[Get Started]({{ site.baseurl }}/getting-started/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
-[View on GitHub](https://github.com/Baarilliant-ai/alive-mod){: .btn .fs-5 .mb-4 .mb-md-0 }
-
----
+# Welcome to the Alive Mod
 
 ## What is Alive Mod?
 
