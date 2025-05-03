@@ -8,21 +8,7 @@ permalink: /getting-started/
 
 # Getting Started with Alive Mod
 
-Welcome to the Getting Started guide for Alive Mod! This section will help you install, configure, and begin using the Alive mod to bring your Minecraft villagers to life through AI conversations.
-
-## What is Alive Mod?
-
-Alive brings villagers to life through AI conversations and enhances both the utility and narrative depth of Minecraft. Whether you need practical advice on crafting and gameplay mechanics or wish to weave intricate lore and RPG-style interactions, Alive Mod transforms your Minecraft world.
-
-## Key Features
-
-- **Intelligent Conversations**: Talk naturally with villagers about anything in the Minecraft world
-- **Profession-Based Knowledge**: Villagers have expertise based on their profession
-- **Custom Prompts**: Create custom personalities and backstories for named villagers
-- **World Building**: Set global prompts that apply to all unnamed villagers
-- **Seamless Integration**: Works naturally within the Minecraft gameplay experience
-
-## In This Section
+tbh if you have the mod in your mods folder you can sneak click a villager and start chattin.
 
 This Getting Started guide is divided into several pages to help you get up and running with Alive mod:
 
