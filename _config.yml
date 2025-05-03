@@ -1,5 +1,5 @@
 # Jekyll configuration for GitHub Pages
-title: Alive Mod Documentation
+title: Alive Mod
 description: Documentation for the Alive Mod for Minecraft
 remote_theme: just-the-docs/just-the-docs
 baseurl: '/alive-mod' # the subpath of your site, e.g. /blog

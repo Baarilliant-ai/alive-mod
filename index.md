@@ -7,19 +7,61 @@ permalink: /
 
 # Alive Mod: Player's Guide
 
-Welcome to the Alive Mod for Minecraft! This guide will help you understand all the amazing features that bring your villagers to life with unique personalities and special abilities.
+Welcome to the Alive Mod for Minecraft! This guide will help you understand all the amazing features that bring your villagers to life through AI conversations and enhance both the utility and narrative depth of your game.
 
 {: .fs-6 .fw-300 }
-Discover how the Alive Mod transforms your Minecraft villagers into unique individuals with personalities, backstories, and special abilities.
+Discover how the Alive Mod transforms your Minecraft villagers into unique individuals with personalities, backstories, and the ability to engage in meaningful conversations.
 
-[Get Started](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Get Started]({{ site.baseurl }}/getting-started/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 [View on GitHub](https://github.com/Baarilliant-ai/alive-mod){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
+## What is Alive Mod?
+
+Alive brings villagers to life through AI conversations and enhances both the utility and narrative depth of the game. Whether you need practical advice on crafting and gameplay mechanics or wish to weave intricate lore and RPG-style interactions, Alive Mod brings your world to life.
+
+## Adventure vs. Creative Mode
+
+Alive mod offers two distinct modes of operation:
+
+### Adventure Mode (Default)
+
+Adventure Mode is designed for immersive gameplay with minimal setup:
+
+- Villagers are automatically enabled as interactive AI characters
+- Simply Shift + left-click on any villager to start a conversation
+- Perfect for players who want a seamless, immersive experience
+
+### Creative Mode
+
+Creative Mode offers more control and customization:
+
+- Villagers are not automatically enabled as AI characters
+- Requires Books and Quills to create custom prompts for villagers
+- Ideal for map makers, server administrators, and players who want precise control
+
+[Learn more about Game Modes]({{ site.baseurl }}/getting-started/MODES)
+
 ## Getting Started
 
-The Alive Mod adds several special abilities and personality traits to villagers in Minecraft:
+To begin using Alive mod:
+
+1. Find a villager in your Minecraft world
+2. Hold down the **Shift** key
+3. **Left-click** on the villager
+4. Say "hi" or another greeting in the chat
+
+The villager will respond based on their profession, personality, and the mode you're using.
+
+### Basic Features
+
+- **Villager Following**: Villagers will follow you while in conversation
+- **Custom Prompts**: Name a villager with a name tag, then use a Book and Quill to create a custom prompt
+- **World Prompts**: Create a Book and Quill titled "World" to apply prompts to all non-named villagers
+- **Natural Conversations**: Ask about crafting, in-game mechanics, lore, or engage in roleplay
+
+[Explore our Getting Started Guide]({{ site.baseurl }}/getting-started/) for detailed installation and usage instructions.
 
 ### AI Functions
 
@@ -62,13 +104,41 @@ Every villager has a unique personality based on their profession! Each villager
 ### Villager Traits
 
 - [Trait System Overview]({{ site.baseurl }}/villager_traits/OVERVIEW)
-- [Farmer Traits]({{ site.baseurl }}/villager_traits/FARMER)
-- [Librarian Traits]({{ site.baseurl }}/villager_traits/LIBRARIAN)
-- [Cleric Traits]({{ site.baseurl }}/villager_traits/CLERIC)
 - [Armorer Traits]({{ site.baseurl }}/villager_traits/ARMORER)
+- [Butcher Traits]({{ site.baseurl }}/villager_traits/BUTCHER)
+- [Cartographer Traits]({{ site.baseurl }}/villager_traits/CARTOGRAPHER)
+- [Cleric Traits]({{ site.baseurl }}/villager_traits/CLERIC)
+- [Farmer Traits]({{ site.baseurl }}/villager_traits/FARMER)
 - [Fisherman Traits]({{ site.baseurl }}/villager_traits/FISHERMAN)
-- [Shepherd Traits]({{ site.baseurl }}/villager_traits/SHEPHERD)
+- [Fletcher Traits]({{ site.baseurl }}/villager_traits/FLETCHER)
+- [Leatherworker Traits]({{ site.baseurl }}/villager_traits/LEATHERWORKER)
+- [Librarian Traits]({{ site.baseurl }}/villager_traits/LIBRARIAN)
+- [Mason Traits]({{ site.baseurl }}/villager_traits/MASON)
 - [Nitwit Traits]({{ site.baseurl }}/villager_traits/NITWIT)
-- And more...
+- [Shepherd Traits]({{ site.baseurl }}/villager_traits/SHEPHERD)
+- [Toolsmith Traits]({{ site.baseurl }}/villager_traits/TOOLSMITH)
+- [Unemployed Villager Traits]({{ site.baseurl }}/villager_traits/NONE)
+- [Weaponsmith Traits]({{ site.baseurl }}/villager_traits/WEAPONSMITH)
+
+## Limitations and Additional Information
+
+- Alive mod free version is only aware of in-game features, lore, and capabilities
+- It is unable to answer or act out real-world events or facts
+- Your Minecraft UUID is sent to baarilliant.ai, used only for safety and to prevent abuse
+- AI can make mistakes, always check the facts
+- Due to restrictions from AI providers, Alive may not work in some countries or regions
+
+## Community and Support
+
+Join the [Discord community](https://discord.gg/7KVqSQ3XXK) to:
+
+- Get help with installation or usage
+- Share your experiences and creations
+- Suggest new features or report bugs
+- Connect with other Alive mod users
+
+## Powered By
+
+Alive is powered by baarilliant.ai Gaming Gateway - no API keys or signup required, with a free tier available.
 
 Enjoy getting to know your villagers in a whole new way with the Alive mod!
