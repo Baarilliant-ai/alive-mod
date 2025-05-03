@@ -111,6 +111,33 @@ li {
 .side-bar {
   background-color: #f8f9fa;
   border-right: 1px solid #eaecef;
+  width: 248px;
+  max-width: 248px;
+}
+
+@media (min-width: 50rem) {
+  .side-bar {
+    width: 248px;
+  }
+}
+
+@media (min-width: 66.5rem) {
+  .side-bar {
+    width: 264px;
+  }
+}
+
+/* Adjust main content to match sidebar width */
+@media (min-width: 66.5rem) {
+  .main {
+    margin-left: 264px;
+  }
+}
+
+@media (min-width: 50rem) {
+  .main {
+    margin-left: 248px;
+  }
 }
 
 /* Navigation improvements */
