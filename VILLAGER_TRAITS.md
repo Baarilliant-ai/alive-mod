@@ -1,149 +1,49 @@
 ---
-layout: home
-title: Home
-nav_order: 1
-permalink: /
+layout: page
+title: Villager Traits
+nav_order: 3
+permalink: /villager-traits/
 ---
 
-# Welcome to the Alive Mod
+# Villager Traits in the Alive Mod
 
-[Get Started]({{ site.baseurl }}/getting-started/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
-[View on GitHub](https://github.com/Baarilliant-ai/alive-mod){: .btn .fs-5 .mb-4 .mb-md-0 }
+The Alive mod brings your Minecraft villagers to life with unique personalities and traits based on their profession. This guide explains how the villager traits system works and what makes each villager unique.
 
-## What is Alive Mod?
+## How Traits Work
 
-Alive brings villagers to life through AI conversations and enhances both the utility and narrative depth of the game. Whether you need practical advice on crafting and gameplay mechanics or wish to weave intricate lore and RPG-style interactions, Alive Mod brings your world to life.
+Every villager in the Alive mod has a set of traits that define their personality, appearance, behavior, and more. These traits are determined by the villager's profession (Farmer, Librarian, etc.) and make each villager feel like a unique individual.
 
-### Powered by the baarilliant.ai gaming gateway.
+When you interact with a villager, you'll notice their distinct personality coming through in how they talk and behave. A farmer might talk about crops and weather, while a librarian might discuss books and knowledge.
 
-We are super interested in hearing from you if you have more complex requirments, or to integrate AI into your own mod without managing API keys, safeguards, and anti-abuse measures, contact the team at the email above.
+## Trait Categories
 
-We can integrate AI safely into your mod in les than 15minutes, with no hastle for your users.
+Villagers have many different trait categories that define who they are:
 
-### Supported Countries
+### Core Traits
 
-Due to restrictions from AI providers, Alive mod may not work in some countries or regions. For the most up-to-date information on supported countries, please check the official Discord or Modrinth page.
+1. **Archetypes**: Their role in society (like "Harvester" for farmers)
+2. **Personalities**: How they behave (friendly, grumpy, wise, etc.)
+3. **Backstories**: Their personal history and experiences
+4. **Goals**: What they're working toward
+5. **Fears**: What worries them
+6. **Quirks**: Unique habits or behaviors
 
-### Stay Updated
+### Additional Traits
 
-To stay informed about the latest updates, features, and community events:
+7. **Speech Patterns**: How they talk
+8. **Physical Traits**: How they look
+9. **Relationships**: How they interact with others
+10. **Values**: What's important to them
+11. **Hobbies**: What they do for fun
+12. **Cultural Background**: Where they come from
+13. **Age Group**: Young, middle-aged, or elder
+14. **Life Events**: Important things that happened to them
+15. **Emotional State**: How they're feeling right now
 
-### Discord Community
+## Profession-Specific Traits
 
-[Join the Alive Discord Server](https://discord.gg/7KVqSQ3XXK)
+Each profession has its own unique set of traits that reflect their role in the village:
 
-The official Alive mod Discord server is the best place to:
-
-- Get help with installation or configuration issues
-- Share your experiences and creations
-- Suggest new features or report bugs
-- Connect with other Alive mod users
-- Receive announcements about updates and new features
-- Talk directly with the mod developers
-
-### Email Support
-
-For business inquiries or private support requests, you can contact the Alive mod team at:
-
-[alive@baarilliant.ai](mailto:alive@baarilliant.ai)
-
-### Modrinth
-
-[Alive on Modrinth](https://modrinth.com/mod/alive)
-
-### CurseForge
-
-[Alive on CurseForge](https://www.curseforge.com/minecraft/mc-mods/alive)
-
-Follow the mod on Modrinth or CurseForge
-
-Check the documentation regularly for updates
-
-Remember that Alive is actively developed, and new features and improvements are regularly added based on community feedback.
-
-## Adventure vs. Creative Mode
-
-Alive mod offers two distinct modes of operation:
-
-### Adventure Mode (Default)
-
-Adventure Mode is designed for immersive gameplay with minimal setup:
-
-- Villagers are automatically enabled as interactive AI characters
-- Simply Shift + left-click on any villager to start a conversation
-- Perfect for players who want a seamless, immersive experience
-
-### Creative Mode
-
-Creative Mode offers more control and customization:
-
-- Villagers are not automatically enabled as AI characters
-- Requires Books and Quills to create custom prompts for villagers
-- Ideal for map makers, server administrators, and players who want precise control
-
-[Learn more about Game Modes]({{ site.baseurl }}/getting_started/MODES)
-
-## Getting Started
-
-To begin using Alive mod:
-
-1. Find a villager in your Minecraft world
-2. Hold down the **Shift** key
-3. **Left-click** on the villager
-4. Say "hi" or another greeting in the chat
-
-The villager will respond based on their profession, personality, and the mode you're using.
-
-### Basic Features
-
-- **Villager Following**: Villagers will follow you while in conversation
-- **Custom Prompts**: Name a villager with a name tag, then use a Book and Quill to create a custom prompt
-- **World Prompts**: Create a Book and Quill titled "World" to apply prompts to all non-named villagers
-- **Natural Conversations**: Ask about crafting, in-game mechanics, lore, or engage in roleplay
-
-[Explore our Getting Started Guide]({{ site.baseurl }}/getting-started/) for detailed installation and usage instructions.
-
-### Capabilities
-
-The mod includes several special abilities that enhance your interactions with villagers:
-
-- **Chat Links**: Get suggested responses when talking to villagers
-- **Correct Answer**: Answer villagers' questions correctly for rewards
-- **Goodbye**: End conversations properly with villagers
-- **Look Around**: Ask villagers about their surroundings
-- **Mod Info**: Learn about the mod from villagers
-- **Open Trade Menu**: Easily access a villager's trades during conversation
-
-[Read more about Capabilities]({{ site.baseurl }}/capabilities/)
-
-### Villager Traits
-
-Every villager has a unique personality based on their profession! Each villager has traits that define:
-
-- Their archetype and role in society
-- Personality characteristics
-- Backstory and history
-- Goals and aspirations
-- Fears and concerns
-- Quirks and unique behaviors
-- And much more!
-
-[Read more about Villager Traits]({{ site.baseurl }}/villager-traits/)
-
-## Detailed Documentation
-
-### Capabilities
-
-- [Chat Links]({{ site.baseurl }}/capabilities/CHAT_LINKS)
-- [Correct Answer]({{ site.baseurl }}/capabilities/CORRECT_ANSWER)
-- [Goodbye]({{ site.baseurl }}/capabilities/GOODBYE)
-- [Look Around]({{ site.baseurl }}/capabilities/LOOK_AROUND)
-- [Mod Info]({{ site.baseurl }}/capabilities/MOD_INFO)
-- [Open Trade Menu]({{ site.baseurl }}/capabilities/OPEN_TRADE)
-
-### Villager Traits
-
-- [Trait System Overview]({{ site.baseurl }}/villager_traits/OVERVIEW)
 - [Armorer Traits]({{ site.baseurl }}/villager_traits/ARMORER)
 - [Butcher Traits]({{ site.baseurl }}/villager_traits/BUTCHER)
 - [Cartographer Traits]({{ site.baseurl }}/villager_traits/CARTOGRAPHER)
@@ -160,28 +60,24 @@ Every villager has a unique personality based on their profession! Each villager
 - [Unemployed Villager Traits]({{ site.baseurl }}/villager_traits/NONE)
 - [Weaponsmith Traits]({{ site.baseurl }}/villager_traits/WEAPONSMITH)
 
-## Limitations and Additional Information
+## How to Discover Traits
 
-- Alive mod free version is only aware of in-game features, lore, and capabilities
-- It is unable to answer or act out real-world events or facts
-- Your Minecraft UUID is sent to baarilliant.ai, used only for safety and to prevent abuse
-- Due to restrictions from AI providers, Alive may not work in some countries or regions
+As you interact with villagers, you'll naturally discover their traits through conversation. Here are some tips:
 
-## Disclaimer
+1. **Talk to them multiple times**: Each conversation reveals more about their personality
+2. **Ask about their profession**: They'll share knowledge related to their work
+3. **Listen for speech patterns**: How they talk gives clues about their personality
+4. **Notice their reactions**: Different villagers react differently to the same situations
+5. **Build relationships**: The more you talk to a villager, the more they'll open up
 
-- AI can make mistakes, always check the facts
+## Why Traits Matter
 
-## Community and Support
+Understanding a villager's traits can help you:
 
-Join the [Discord community](https://discord.gg/7KVqSQ3XXK) to:
+- Find specific information related to their expertise
+- Build better relationships for improved trading
+- Discover unique stories and perspectives
+- Get help with tasks related to their profession
+- Have more meaningful and enjoyable interactions
 
-- Get help with installation or usage
-- Share your experiences and creations
-- Suggest new features or report bugs
-- Connect with other Alive mod users
-
-## Powered By
-
-Alive is powered by baarilliant.ai Gaming Gateway - no API keys or signup required, with a free tier available.
-
-Enjoy getting to know your villagers in a whole new way with the Alive mod!
+For detailed information about each profession's traits, check the links above to explore the specific trait sets for each villager type.
