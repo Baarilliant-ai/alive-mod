@@ -166,21 +166,6 @@
   document.addEventListener('DOMContentLoaded', function () {
     const themeToggle = document.getElementById('theme-toggle')
 
-    // Update toggle button based on current theme
-    function updateToggleButton() {
-      const currentTheme =
-        localStorage.getItem('theme') ||
-        (window.matchMedia &&
-        window.matchMedia('(prefers-color-scheme: dark)').matches
-          ? 'dark'
-          : 'light')
-
-      document.documentElement.setAttribute('data-theme', currentTheme)
-    }
-
-    // Initialize toggle button state
-    updateToggleButton()
-
     // Toggle theme when button is clicked
     themeToggle.addEventListener('click', function () {
       const currentTheme =
@@ -191,8 +176,9 @@
           : 'light')
 
       const newTheme = currentTheme === 'dark' ? 'light' : 'dark'
+
+      // Use the setTheme function defined in head_custom.html
       setTheme(newTheme)
-      updateToggleButton()
     })
   })
 </script>
