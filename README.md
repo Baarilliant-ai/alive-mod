@@ -1,5 +1,8 @@
 # Alive Mod Documentation
 
+best viewed at [https://baarilliant-ai.github.io/alive-mod/](https://baarilliant-ai.github.io/alive-mod/)
+
+
 Welcome to the official documentation for the Alive Mod for Minecraft! This documentation will help you understand all the amazing features that bring your villagers to life with unique personalities and special abilities.
 
 ## 📚 Documentation Structure
