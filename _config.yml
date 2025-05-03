@@ -2,7 +2,7 @@
 title: Alive Mod Documentation
 description: Documentation for the Alive Mod for Minecraft
 remote_theme: just-the-docs/just-the-docs
-baseurl: '/AliveMod' # the subpath of your site, e.g. /blog
+baseurl: '/alive-mod' # the subpath of your site, e.g. /blog
 
 # Enable or disable the site search
 search_enabled: true
