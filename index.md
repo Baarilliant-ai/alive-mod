@@ -32,7 +32,7 @@ The mod includes several special abilities that enhance your interactions with v
 - **Mod Info**: Learn about the mod from villagers
 - **Open Trade Menu**: Easily access a villager's trades during conversation
 
-[Read more about AI Functions](AI_FUNCTIONS.html)
+[Read more about AI Functions](/ai-functions/)
 
 ### Villager Traits
 
@@ -46,29 +46,29 @@ Every villager has a unique personality based on their profession! Each villager
 - Quirks and unique behaviors
 - And much more!
 
-[Read more about Villager Traits](VILLAGER_TRAITS.html)
+[Read more about Villager Traits](/villager-traits/)
 
 ## Detailed Documentation
 
 ### AI Functions
 
-- [Chat Links](functions/CHAT_LINKS.html)
-- [Correct Answer](functions/CORRECT_ANSWER.html)
-- [Goodbye](functions/GOODBYE.html)
-- [Look Around](functions/LOOK_AROUND.html)
-- [Mod Info](functions/MOD_INFO.html)
-- [Open Trade Menu](functions/OPEN_TRADE.html)
+- [Chat Links](/functions/CHAT_LINKS/)
+- [Correct Answer](/functions/CORRECT_ANSWER/)
+- [Goodbye](/functions/GOODBYE/)
+- [Look Around](/functions/LOOK_AROUND/)
+- [Mod Info](/functions/MOD_INFO/)
+- [Open Trade Menu](/functions/OPEN_TRADE/)
 
 ### Villager Traits
 
-- [Trait System Overview](villager_traits/OVERVIEW.html)
-- [Farmer Traits](villager_traits/FARMER.html)
-- [Librarian Traits](villager_traits/LIBRARIAN.html)
-- [Cleric Traits](villager_traits/CLERIC.html)
-- [Armorer Traits](villager_traits/ARMORER.html)
-- [Fisherman Traits](villager_traits/FISHERMAN.html)
-- [Shepherd Traits](villager_traits/SHEPHERD.html)
-- [Nitwit Traits](villager_traits/NITWIT.html)
+- [Trait System Overview](/villager_traits/OVERVIEW/)
+- [Farmer Traits](/villager_traits/FARMER/)
+- [Librarian Traits](/villager_traits/LIBRARIAN/)
+- [Cleric Traits](/villager_traits/CLERIC/)
+- [Armorer Traits](/villager_traits/ARMORER/)
+- [Fisherman Traits](/villager_traits/FISHERMAN/)
+- [Shepherd Traits](/villager_traits/SHEPHERD/)
+- [Nitwit Traits](/villager_traits/NITWIT/)
 - And more...
 
 Enjoy getting to know your villagers in a whole new way with the Alive mod!
