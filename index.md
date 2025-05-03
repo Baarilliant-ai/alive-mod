@@ -13,7 +13,7 @@ Welcome to the Alive Mod for Minecraft! This guide will help you understand all 
 Discover how the Alive Mod transforms your Minecraft villagers into unique individuals with personalities, backstories, and special abilities.
 
 [Get Started](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
-[View on GitHub](https://github.com/Baarilliant-ai/AliveMod){: .btn .fs-5 .mb-4 .mb-md-0 }
+[View on GitHub](https://github.com/Baarilliant-ai/alive-mod){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
@@ -32,7 +32,7 @@ The mod includes several special abilities that enhance your interactions with v
 - **Mod Info**: Learn about the mod from villagers
 - **Open Trade Menu**: Easily access a villager's trades during conversation
 
-[Read more about AI Functions](/ai-functions/)
+[Read more about AI Functions]({{ site.baseurl }}/ai-functions/)
 
 ### Villager Traits
 
@@ -46,29 +46,29 @@ Every villager has a unique personality based on their profession! Each villager
 - Quirks and unique behaviors
 - And much more!
 
-[Read more about Villager Traits](/villager-traits/)
+[Read more about Villager Traits]({{ site.baseurl }}/villager-traits/)
 
 ## Detailed Documentation
 
 ### AI Functions
 
-- [Chat Links](/functions/CHAT_LINKS/)
-- [Correct Answer](/functions/CORRECT_ANSWER/)
-- [Goodbye](/functions/GOODBYE/)
-- [Look Around](/functions/LOOK_AROUND/)
-- [Mod Info](/functions/MOD_INFO/)
-- [Open Trade Menu](/functions/OPEN_TRADE/)
+- [Chat Links]({{ site.baseurl }}/functions/CHAT_LINKS/)
+- [Correct Answer]({{ site.baseurl }}/functions/CORRECT_ANSWER/)
+- [Goodbye]({{ site.baseurl }}/functions/GOODBYE/)
+- [Look Around]({{ site.baseurl }}/functions/LOOK_AROUND/)
+- [Mod Info]({{ site.baseurl }}/functions/MOD_INFO/)
+- [Open Trade Menu]({{ site.baseurl }}/functions/OPEN_TRADE/)
 
 ### Villager Traits
 
-- [Trait System Overview](/villager_traits/OVERVIEW/)
-- [Farmer Traits](/villager_traits/FARMER/)
-- [Librarian Traits](/villager_traits/LIBRARIAN/)
-- [Cleric Traits](/villager_traits/CLERIC/)
-- [Armorer Traits](/villager_traits/ARMORER/)
-- [Fisherman Traits](/villager_traits/FISHERMAN/)
-- [Shepherd Traits](/villager_traits/SHEPHERD/)
-- [Nitwit Traits](/villager_traits/NITWIT/)
+- [Trait System Overview]({{ site.baseurl }}/villager_traits/OVERVIEW/)
+- [Farmer Traits]({{ site.baseurl }}/villager_traits/FARMER/)
+- [Librarian Traits]({{ site.baseurl }}/villager_traits/LIBRARIAN/)
+- [Cleric Traits]({{ site.baseurl }}/villager_traits/CLERIC/)
+- [Armorer Traits]({{ site.baseurl }}/villager_traits/ARMORER/)
+- [Fisherman Traits]({{ site.baseurl }}/villager_traits/FISHERMAN/)
+- [Shepherd Traits]({{ site.baseurl }}/villager_traits/SHEPHERD/)
+- [Nitwit Traits]({{ site.baseurl }}/villager_traits/NITWIT/)
 - And more...
 
 Enjoy getting to know your villagers in a whole new way with the Alive mod!

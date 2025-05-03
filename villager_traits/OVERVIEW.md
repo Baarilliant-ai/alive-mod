@@ -73,12 +73,12 @@ You'll discover villager traits naturally through conversation. Some traits are 
 
 Each profession has its own unique set of possible traits. Check out the specific profession pages to learn more about each type of villager:
 
-- [Farmer Traits](FARMER.html)
-- [Librarian Traits](LIBRARIAN.html)
-- [Cleric Traits](CLERIC.html)
-- [Armorer Traits](ARMORER.html)
-- [Fisherman Traits](FISHERMAN.html)
-- [Nitwit Traits](NITWIT.html)
-- [Shepherd Traits](SHEPHERD.html)
+- [Farmer Traits]({{ site.baseurl }}/villager_traits/FARMER/)
+- [Librarian Traits]({{ site.baseurl }}/villager_traits/LIBRARIAN/)
+- [Cleric Traits]({{ site.baseurl }}/villager_traits/CLERIC/)
+- [Armorer Traits]({{ site.baseurl }}/villager_traits/ARMORER/)
+- [Fisherman Traits]({{ site.baseurl }}/villager_traits/FISHERMAN/)
+- [Nitwit Traits]({{ site.baseurl }}/villager_traits/NITWIT/)
+- [Shepherd Traits]({{ site.baseurl }}/villager_traits/SHEPHERD/)
 
 The villager traits system transforms Minecraft villages from simple trading posts into living communities filled with unique individuals. Take the time to get to know your villagers - you might be surprised by the depth and variety of personalities you'll discover!

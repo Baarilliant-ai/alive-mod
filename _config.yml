@@ -10,7 +10,7 @@ search_enabled: true
 # Aux links for the upper right navigation
 aux_links:
   'Alive Mod on GitHub':
-    - 'https://github.com/Baarilliant-ai/AliveMod'
+    - 'https://github.com/Baarilliant-ai/alive-mod'
 
 # Makes Aux links open in a new tab
 aux_links_new_tab: true
