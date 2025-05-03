@@ -1,25 +1,47 @@
 # Alive Mod Documentation
 
-This directory contains the documentation for the Alive Mod for Minecraft, formatted for GitHub Pages.
+Welcome to the official documentation for the Alive Mod for Minecraft! This documentation will help you understand all the amazing features that bring your villagers to life with unique personalities and special abilities.
 
-## Local Development
+## 📚 Documentation Structure
 
-To run this documentation site locally:
+This documentation is organized into several sections:
 
-1. Install Ruby and Bundler
-2. Run `bundle install` in this directory
-3. Run `bundle exec jekyll serve` to start a local server
-4. Visit `http://localhost:4000` in your browser
+- **[Home](index.md)**: Overview and getting started guide
+- **[AI Functions](AI_FUNCTIONS.md)**: Special abilities that enhance villager interactions
+- **[Villager Traits](VILLAGER_TRAITS.md)**: Unique personalities for each villager profession
 
-## Structure
+### AI Functions
 
-- `_config.yml`: Jekyll configuration
-- `index.md`: Home page
-- `AI_FUNCTIONS.md`: Overview of AI functions
-- `VILLAGER_TRAITS.md`: Overview of villager traits
-- `functions/`: Detailed documentation for each AI function
-- `villager_traits/`: Detailed documentation for each villager profession's traits
+Learn about the special abilities that make villagers more interactive:
 
-## GitHub Pages
+- [Chat Links](functions/CHAT_LINKS.md): Suggested responses during conversations
+- [Correct Answer](functions/CORRECT_ANSWER.md): Answer questions for rewards
+- [Goodbye](functions/GOODBYE.md): End conversations properly
+- [Look Around](functions/LOOK_AROUND.md): Ask about surroundings
+- [Mod Info](functions/MOD_INFO.md): Learn about the mod
+- [Open Trade Menu](functions/OPEN_TRADE.md): Access trades during conversation
 
-This documentation is automatically published to GitHub Pages when changes are pushed to the main branch.
+### Villager Traits
+
+Discover the unique personalities of each villager profession:
+
+- [Trait System Overview](villager_traits/OVERVIEW.md): How traits work
+- [Farmer Traits](villager_traits/FARMER.md): Agricultural experts
+- [Librarian Traits](villager_traits/LIBRARIAN.md): Knowledge keepers
+- [Cleric Traits](villager_traits/CLERIC.md): Spiritual advisors
+- [Armorer Traits](villager_traits/ARMORER.md): Defense specialists
+- [Fisherman Traits](villager_traits/FISHERMAN.md): Water experts
+- [Shepherd Traits](villager_traits/SHEPHERD.md): Animal caretakers
+- [Nitwit Traits](villager_traits/NITWIT.md): Unique perspectives
+
+## 🌐 Online Documentation
+
+This documentation is also available online at [https://baarilliant-ai.github.io/alive-mod/](https://baarilliant-ai.github.io/alive-mod/)
+
+## 🤝 Contributing to Documentation
+
+We welcome contributions to improve this documentation! If you find errors, have suggestions, or want to add more information, please feel free to submit a pull request.
+
+## 📄 License
+
+This documentation is licensed under the MIT License - see the [LICENSE](../LICENSE) file for details.
