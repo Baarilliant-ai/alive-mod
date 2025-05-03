@@ -20,13 +20,41 @@ We are super interested in hearing from you if you have more complex requirments
 
 We can integrate AI safely into your mod in les than 15minutes, with no hastle for your users.
 
-Supported Countries
+### Supported Countries
+
 Due to restrictions from AI providers, Alive mod may not work in some countries or regions. For the most up-to-date information on supported countries, please check the official Discord or Modrinth page.
 
-Stay Updated
+### Stay Updated
+
 To stay informed about the latest updates, features, and community events:
 
-Join the Discord server for announcements
+### Discord Community
+
+[Join the Alive Discord Server](https://discord.gg/7KVqSQ3XXK)
+
+The official Alive mod Discord server is the best place to:
+
+- Get help with installation or configuration issues
+- Share your experiences and creations
+- Suggest new features or report bugs
+- Connect with other Alive mod users
+- Receive announcements about updates and new features
+- Talk directly with the mod developers
+
+### Email Support
+
+For business inquiries or private support requests, you can contact the Alive mod team at:
+
+[alive@baarilliant.ai](mailto:alive@baarilliant.ai)
+
+### Modrinth
+
+[Alive on Modrinth](https://modrinth.com/mod/alive)
+
+### CurseForge
+
+[Alive on CurseForge](https://www.curseforge.com/minecraft/mc-mods/alive)
+
 Follow the mod on Modrinth or CurseForge
 Check the documentation regularly for updates
 
