@@ -14,7 +14,7 @@ permalink: /
 
 Alive brings villagers to life through AI conversations and enhances both the utility and narrative depth of the game. Whether you need practical advice on crafting and gameplay mechanics or wish to weave intricate lore and RPG-style interactions, Alive Mod brings your world to life.
 
-### Powered by the baarilliant.ai gaming gateway
+### Powered by the baarilliant.ai gaming gateway.
 
 We are super interested in hearing from you if you have more complex requirments, or to integrate AI into your own mod without managing API keys, safeguards, and anti-abuse measures, contact the team at the email above.
 
@@ -56,7 +56,9 @@ For business inquiries or private support requests, you can contact the Alive mo
 [Alive on CurseForge](https://www.curseforge.com/minecraft/mc-mods/alive)
 
 Follow the mod on Modrinth or CurseForge
+
 Check the documentation regularly for updates
+
 Remember that Alive is actively developed, and new features and improvements are regularly added based on community feedback.
 
 ## Adventure vs. Creative Mode
@@ -163,8 +165,11 @@ Every villager has a unique personality based on their profession! Each villager
 - Alive mod free version is only aware of in-game features, lore, and capabilities
 - It is unable to answer or act out real-world events or facts
 - Your Minecraft UUID is sent to baarilliant.ai, used only for safety and to prevent abuse
-- AI can make mistakes, always check the facts
 - Due to restrictions from AI providers, Alive may not work in some countries or regions
+
+## Disclaimer
+
+- AI can make mistakes, always check the facts
 
 ## Community and Support
 
