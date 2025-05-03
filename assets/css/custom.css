@@ -1,0 +1,131 @@
+/* Custom styles for Alive Mod documentation */
+
+/* Improve typography */
+body {
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto,
+    Helvetica, Arial, sans-serif;
+  line-height: 1.6;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Inter', sans-serif;
+  font-weight: 600;
+  margin-top: 1.5em;
+  margin-bottom: 0.5em;
+}
+
+h1 {
+  font-size: 2.5em;
+  border-bottom: 1px solid #eaecef;
+  padding-bottom: 0.3em;
+}
+
+h2 {
+  font-size: 1.8em;
+  border-bottom: 1px solid #eaecef;
+  padding-bottom: 0.3em;
+}
+
+/* Improve code blocks */
+pre.highlight,
+code {
+  border-radius: 4px;
+}
+
+/* Improve links */
+a {
+  transition: color 0.2s ease;
+}
+
+/* Improve tables */
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin-bottom: 1rem;
+  border: 1px solid #e1e4e8;
+  border-radius: 4px;
+  overflow: hidden;
+}
+
+th,
+td {
+  padding: 0.75rem;
+  border: 1px solid #e1e4e8;
+}
+
+th {
+  background-color: #f6f8fa;
+  font-weight: 600;
+}
+
+tr:nth-child(even) {
+  background-color: #f6f8fa;
+}
+
+/* Improve blockquotes */
+blockquote {
+  border-left: 4px solid #dfe2e5;
+  padding: 0 1em;
+  color: #6a737d;
+}
+
+/* Improve lists */
+ul,
+ol {
+  padding-left: 2em;
+}
+
+li {
+  margin-bottom: 0.3em;
+}
+
+/* Improve navigation */
+.site-nav {
+  padding-top: 1rem;
+}
+
+/* Improve buttons */
+.btn {
+  border-radius: 4px;
+  transition: background-color 0.2s ease;
+}
+
+/* Improve search */
+.search-input {
+  border-radius: 4px;
+}
+
+/* Main content improvements */
+.main-content {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 2rem 3rem;
+}
+
+/* Sidebar improvements */
+.side-bar {
+  background-color: #f8f9fa;
+  border-right: 1px solid #eaecef;
+}
+
+/* Navigation improvements */
+.nav-list .nav-list-item .nav-list-link {
+  border-radius: 4px;
+  transition: background-color 0.2s ease;
+}
+
+.nav-list .nav-list-item .nav-list-link:hover {
+  background-color: #e9ecef;
+}
+
+/* Footer improvements */
+.site-footer {
+  border-top: 1px solid #eaecef;
+  padding-top: 1rem;
+  margin-top: 2rem;
+}

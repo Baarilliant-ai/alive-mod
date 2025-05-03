@@ -1,0 +1,88 @@
+<!-- Custom footer content -->
+<div class="custom-footer">
+  <div class="footer-section">
+    <h4>About Alive Mod</h4>
+    <p>
+      The Alive Mod brings your Minecraft villagers to life with unique
+      personalities and traits.
+    </p>
+    <p>
+      <a href="https://github.com/Baarilliant-ai/AliveMod" target="_blank"
+        >View on GitHub</a
+      >
+    </p>
+  </div>
+
+  <div class="footer-section">
+    <h4>Documentation Sections</h4>
+    <ul>
+      <li><a href="{{ '/ai-functions/' | relative_url }}">AI Functions</a></li>
+      <li>
+        <a href="{{ '/villager-traits/' | relative_url }}">Villager Traits</a>
+      </li>
+    </ul>
+  </div>
+
+  <div class="footer-section">
+    <h4>Resources</h4>
+    <ul>
+      <li>
+        <a
+          href="https://github.com/Baarilliant-ai/AliveMod/issues"
+          target="_blank"
+          >Report Issues</a
+        >
+      </li>
+      <li>
+        <a
+          href="https://github.com/Baarilliant-ai/AliveMod/releases"
+          target="_blank"
+          >Latest Releases</a
+        >
+      </li>
+    </ul>
+  </div>
+</div>
+
+<style>
+  .custom-footer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-top: 2rem;
+    padding-top: 1rem;
+    border-top: 1px solid #eaecef;
+  }
+
+  .footer-section {
+    flex: 1;
+    min-width: 200px;
+    margin-right: 2rem;
+    margin-bottom: 1rem;
+  }
+
+  .footer-section h4 {
+    font-size: 1.1rem;
+    margin-top: 0;
+    margin-bottom: 0.5rem;
+  }
+
+  .footer-section ul {
+    list-style: none;
+    padding-left: 0;
+  }
+
+  .footer-section li {
+    margin-bottom: 0.25rem;
+  }
+
+  @media (max-width: 800px) {
+    .custom-footer {
+      flex-direction: column;
+    }
+
+    .footer-section {
+      margin-right: 0;
+    }
+  }
+</style>

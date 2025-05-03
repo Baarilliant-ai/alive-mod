@@ -1,0 +1,84 @@
+<!-- Custom navigation content -->
+<div class="custom-nav-header">
+  <div class="nav-header-logo">
+    <img
+      src="{{ '/assets/images/icon.png' | relative_url }}"
+      alt="Alive Mod Logo"
+      width="32"
+      height="32"
+    />
+    <span class="nav-header-title">Alive Mod</span>
+  </div>
+  <div class="nav-header-links">
+    <a href="{{ '/' | relative_url }}" class="nav-link">Home</a>
+    <a href="{{ '/ai-functions/' | relative_url }}" class="nav-link"
+      >AI Functions</a
+    >
+    <a href="{{ '/villager-traits/' | relative_url }}" class="nav-link"
+      >Villager Traits</a
+    >
+    <a
+      href="https://github.com/Baarilliant-ai/AliveMod"
+      target="_blank"
+      class="nav-link"
+      >GitHub</a
+    >
+  </div>
+</div>
+
+<style>
+  .custom-nav-header {
+    display: flex;
+    flex-direction: column;
+    padding: 1rem;
+    border-bottom: 1px solid #eaecef;
+    margin-bottom: 1rem;
+  }
+
+  .nav-header-logo {
+    display: flex;
+    align-items: center;
+    margin-bottom: 0.5rem;
+  }
+
+  .nav-header-logo img {
+    margin-right: 0.5rem;
+  }
+
+  .nav-header-title {
+    font-size: 1.25rem;
+    font-weight: 600;
+  }
+
+  .nav-header-links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+  }
+
+  .nav-link {
+    color: #0366d6;
+    text-decoration: none;
+    font-weight: 500;
+    padding: 0.25rem 0;
+    border-bottom: 2px solid transparent;
+    transition: border-color 0.2s ease;
+  }
+
+  .nav-link:hover {
+    border-bottom-color: #0366d6;
+    text-decoration: none;
+  }
+
+  @media (min-width: 800px) {
+    .custom-nav-header {
+      flex-direction: row;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    .nav-header-logo {
+      margin-bottom: 0;
+    }
+  }
+</style>

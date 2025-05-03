@@ -1,0 +1,75 @@
+---
+layout: page
+title: Villager Traits
+nav_order: 3
+permalink: /villager-traits/
+---
+
+# Villager Traits in the Alive Mod
+
+The Alive mod brings your Minecraft villagers to life with unique personalities and traits based on their profession. This guide explains how the villager traits system works and what makes each villager unique.
+
+## How Traits Work
+
+Every villager in the Alive mod has a set of traits that define their personality, appearance, behavior, and more. These traits are determined by the villager's profession (Farmer, Librarian, etc.) and make each villager feel like a unique individual.
+
+When you interact with a villager, you'll notice their distinct personality coming through in how they talk and behave. A farmer might talk about crops and weather, while a librarian might discuss books and knowledge.
+
+## Trait Categories
+
+Villagers have many different trait categories that define who they are:
+
+### Core Traits
+
+1. **Archetypes**: Their role in society (like "Harvester" for farmers)
+2. **Personalities**: How they behave (friendly, grumpy, wise, etc.)
+3. **Backstories**: Their personal history and experiences
+4. **Goals**: What they're working toward
+5. **Fears**: What worries them
+6. **Quirks**: Unique habits or behaviors
+
+### Additional Traits
+
+7. **Speech Patterns**: How they talk
+8. **Physical Traits**: How they look
+9. **Relationships**: How they interact with others
+10. **Values**: What's important to them
+11. **Hobbies**: What they do for fun
+12. **Cultural Background**: Where they come from
+13. **Age Group**: Young, middle-aged, or elder
+14. **Life Events**: Important things that happened to them
+15. **Emotional State**: How they're feeling right now
+
+## Profession-Specific Traits
+
+Each profession has its own unique set of traits that reflect their role in the village:
+
+- [Farmer Traits](villager_traits/FARMER.html): Connected to the land, knows about crops and weather
+- [Librarian Traits](villager_traits/LIBRARIAN.html): Knowledgeable, loves books and learning
+- [Cleric Traits](villager_traits/CLERIC.html): Spiritual, connected to otherworldly forces
+- [Armorer Traits](villager_traits/ARMORER.html): Protective, knows about defense and armor
+- [Fisherman Traits](villager_traits/FISHERMAN.html): Patient, connected to water and fishing
+- [Nitwit Traits](villager_traits/NITWIT.html): Unique, sees the world differently
+- [Shepherd Traits](villager_traits/SHEPHERD.html): Caring, good with animals and wool
+
+## How to Discover Traits
+
+As you interact with villagers, you'll naturally discover their traits through conversation. Here are some tips:
+
+1. **Talk to them multiple times**: Each conversation reveals more about their personality
+2. **Ask about their profession**: They'll share knowledge related to their work
+3. **Listen for speech patterns**: How they talk gives clues about their personality
+4. **Notice their reactions**: Different villagers react differently to the same situations
+5. **Build relationships**: The more you talk to a villager, the more they'll open up
+
+## Why Traits Matter
+
+Understanding a villager's traits can help you:
+
+- Find specific information related to their expertise
+- Build better relationships for improved trading
+- Discover unique stories and perspectives
+- Get help with tasks related to their profession
+- Have more meaningful and enjoyable interactions
+
+For detailed information about each profession's traits, check the links above to explore the specific trait sets for each villager type.

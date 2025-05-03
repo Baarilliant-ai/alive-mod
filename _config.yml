@@ -1,0 +1,77 @@
+# Jekyll configuration for GitHub Pages
+title: Alive Mod Documentation
+description: Documentation for the Alive Mod for Minecraft
+remote_theme: just-the-docs/just-the-docs
+
+# Enable or disable the site search
+search_enabled: true
+
+# Aux links for the upper right navigation
+aux_links:
+  'Alive Mod on GitHub':
+    - 'https://github.com/Baarilliant-ai/AliveMod'
+
+# Makes Aux links open in a new tab
+aux_links_new_tab: true
+
+# Sort order for navigation links
+nav_sort: case_sensitive # Capital letters sorted before lowercase
+
+# Back to top link
+back_to_top: true
+back_to_top_text: 'Back to top'
+
+# Footer content
+footer_content: 'Copyright &copy; 2024 Baarilliant AI. Distributed under the MIT license.'
+
+# Color scheme
+color_scheme: light
+
+# Favicon
+favicon_ico: '/assets/images/icon.png'
+
+# Google Analytics
+# ga_tracking: UA-XXXXXXXX-X
+# ga_tracking_anonymize_ip: true
+
+# Heading anchor links
+heading_anchors: true
+
+# External navigation links
+# nav_external_links:
+#   - title: Alive Mod Wiki
+#     url: https://example.com/wiki
+
+# Collections for organizing content
+collections:
+  functions:
+    permalink: '/:collection/:path/'
+    output: true
+  villager_traits:
+    permalink: '/:collection/:path/'
+    output: true
+
+# Default layouts
+defaults:
+  - scope:
+      path: ''
+      type: 'functions'
+    values:
+      layout: 'page'
+      parent: 'AI Functions'
+  - scope:
+      path: ''
+      type: 'villager_traits'
+    values:
+      layout: 'page'
+      parent: 'Villager Traits'
+  - scope:
+      path: ''
+    values:
+      layout: 'default'
+
+# Plugins
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+  - jekyll-include-cache
