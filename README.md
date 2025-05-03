@@ -2,6 +2,11 @@
 
 Welcome to the official documentation for the Alive Mod for Minecraft! This documentation will help you understand all the amazing features that bring your villagers to life with unique personalities and special abilities.
 
+## 🌐 Online Documentation
+
+This documentation is also available online at [https://baarilliant-ai.github.io/alive-mod/](https://baarilliant-ai.github.io/alive-mod/)
+
+
 ## 📚 Documentation Structure
 
 This documentation is organized into several sections:
@@ -33,10 +38,6 @@ Discover the unique personalities of each villager profession:
 - [Fisherman Traits](villager_traits/FISHERMAN.md): Water experts
 - [Shepherd Traits](villager_traits/SHEPHERD.md): Animal caretakers
 - [Nitwit Traits](villager_traits/NITWIT.md): Unique perspectives
-
-## 🌐 Online Documentation
-
-This documentation is also available online at [https://baarilliant-ai.github.io/alive-mod/](https://baarilliant-ai.github.io/alive-mod/)
 
 ## 🤝 Contributing to Documentation
 
