@@ -7,14 +7,14 @@ permalink: /
 
 # Welcome to the Alive Mod
 
-[Get Started]({{ site.baseurl }}/getting-started/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Get Started]({{ site.baseurl }}/getting_started/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 [View on GitHub](https://github.com/Baarilliant-ai/alive-mod){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ## What is Alive Mod?
 
 Alive brings villagers to life through AI conversations and enhances both the utility and narrative depth of the game. Whether you need practical advice on crafting and gameplay mechanics or wish to weave intricate lore and RPG-style interactions, Alive Mod brings your world to life.
 
-### Powered by the baarilliant.ai gaming gateway.
+### Powered by the baarilliant.ai gaming gateway
 
 We are super interested in hearing from you if you have more complex requirments, or to integrate AI into your own mod without managing API keys, safeguards, and anti-abuse measures, contact the team at the email above.
 
@@ -57,7 +57,6 @@ For business inquiries or private support requests, you can contact the Alive mo
 
 Follow the mod on Modrinth or CurseForge
 Check the documentation regularly for updates
-
 Remember that Alive is actively developed, and new features and improvements are regularly added based on community feedback.
 
 ## Adventure vs. Creative Mode
@@ -80,7 +79,7 @@ Creative Mode offers more control and customization:
 - Requires Books and Quills to create custom prompts for villagers
 - Ideal for map makers, server administrators, and players who want precise control
 
-[Learn more about Game Modes]({{ site.baseurl }}/getting-started/MODES)
+[Learn more about Game Modes]({{ site.baseurl }}/getting_started/MODES)
 
 ## Getting Started
 
@@ -100,7 +99,7 @@ The villager will respond based on their profession, personality, and the mode y
 - **World Prompts**: Create a Book and Quill titled "World" to apply prompts to all non-named villagers
 - **Natural Conversations**: Ask about crafting, in-game mechanics, lore, or engage in roleplay
 
-[Explore our Getting Started Guide]({{ site.baseurl }}/getting-started/) for detailed installation and usage instructions.
+[Explore our Getting Started Guide]({{ site.baseurl }}/getting_started/) for detailed installation and usage instructions.
 
 ### Capabilities
 
