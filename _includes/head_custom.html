@@ -25,7 +25,7 @@
 
 <!-- Open Graph / Facebook -->
 <meta property="og:type" content="website" />
-<meta property="og:url" content="https://baarilliant-ai.github.io/AliveMod/" />
+<meta property="og:url" content="https://baarilliant-ai.github.io/alive-mod/" />
 <meta property="og:title" content="Alive Mod Documentation" />
 <meta
   property="og:description"
@@ -40,7 +40,7 @@
 <meta property="twitter:card" content="summary_large_image" />
 <meta
   property="twitter:url"
-  content="https://baarilliant-ai.github.io/AliveMod/"
+  content="https://baarilliant-ai.github.io/alive-mod/"
 />
 <meta property="twitter:title" content="Alive Mod Documentation" />
 <meta
@@ -62,3 +62,51 @@
   href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap"
   rel="stylesheet"
 />
+
+<!-- Dark mode detection and initialization -->
+<script>
+  // Function to set the theme based on preference
+  function setTheme(theme) {
+    if (theme === 'dark') {
+      jtd.setTheme('dark')
+      localStorage.setItem('theme', 'dark')
+      document.documentElement.setAttribute('data-theme', 'dark')
+    } else {
+      jtd.setTheme('light')
+      localStorage.setItem('theme', 'light')
+      document.documentElement.setAttribute('data-theme', 'light')
+    }
+  }
+
+  // Initialize theme based on:
+  // 1. Previous user selection (stored in localStorage)
+  // 2. System preference (prefers-color-scheme)
+  // 3. Default to light theme if neither is available
+  document.addEventListener('DOMContentLoaded', function () {
+    const savedTheme = localStorage.getItem('theme')
+
+    if (savedTheme) {
+      // Use previously saved theme preference
+      setTheme(savedTheme)
+    } else if (
+      window.matchMedia &&
+      window.matchMedia('(prefers-color-scheme: dark)').matches
+    ) {
+      // Use system preference if no saved preference
+      setTheme('dark')
+    } else {
+      // Default to light theme
+      setTheme('light')
+    }
+
+    // Listen for system preference changes
+    window
+      .matchMedia('(prefers-color-scheme: dark)')
+      .addEventListener('change', (e) => {
+        if (!localStorage.getItem('theme')) {
+          // Only auto-switch if user hasn't manually set a preference
+          setTheme(e.matches ? 'dark' : 'light')
+        }
+      })
+  })
+</script>
