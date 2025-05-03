@@ -44,13 +44,21 @@ Villagers have many different trait categories that define who they are:
 
 Each profession has its own unique set of traits that reflect their role in the village:
 
-- [Farmer Traits]({{ site.baseurl }}/villager_traits/FARMER)
-- [Librarian Traits]({{ site.baseurl }}/villager_traits/LIBRARIAN)
-- [Cleric Traits]({{ site.baseurl }}/villager_traits/CLERIC)
 - [Armorer Traits]({{ site.baseurl }}/villager_traits/ARMORER)
+- [Butcher Traits]({{ site.baseurl }}/villager_traits/BUTCHER)
+- [Cartographer Traits]({{ site.baseurl }}/villager_traits/CARTOGRAPHER)
+- [Cleric Traits]({{ site.baseurl }}/villager_traits/CLERIC)
+- [Farmer Traits]({{ site.baseurl }}/villager_traits/FARMER)
 - [Fisherman Traits]({{ site.baseurl }}/villager_traits/FISHERMAN)
+- [Fletcher Traits]({{ site.baseurl }}/villager_traits/FLETCHER)
+- [Leatherworker Traits]({{ site.baseurl }}/villager_traits/LEATHERWORKER)
+- [Librarian Traits]({{ site.baseurl }}/villager_traits/LIBRARIAN)
+- [Mason Traits]({{ site.baseurl }}/villager_traits/MASON)
 - [Nitwit Traits]({{ site.baseurl }}/villager_traits/NITWIT)
 - [Shepherd Traits]({{ site.baseurl }}/villager_traits/SHEPHERD)
+- [Toolsmith Traits]({{ site.baseurl }}/villager_traits/TOOLSMITH)
+- [Unemployed Villager Traits]({{ site.baseurl }}/villager_traits/NONE)
+- [Weaponsmith Traits]({{ site.baseurl }}/villager_traits/WEAPONSMITH)
 
 ## How to Discover Traits
 

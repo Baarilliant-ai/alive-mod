@@ -73,12 +73,20 @@ You'll discover villager traits naturally through conversation. Some traits are 
 
 Each profession has its own unique set of possible traits. Check out the specific profession pages to learn more about each type of villager:
 
-- [Farmer Traits]({{ site.baseurl }}/villager_traits/FARMER)
-- [Librarian Traits]({{ site.baseurl }}/villager_traits/LIBRARIAN)
-- [Cleric Traits]({{ site.baseurl }}/villager_traits/CLERIC)
 - [Armorer Traits]({{ site.baseurl }}/villager_traits/ARMORER)
+- [Butcher Traits]({{ site.baseurl }}/villager_traits/BUTCHER)
+- [Cartographer Traits]({{ site.baseurl }}/villager_traits/CARTOGRAPHER)
+- [Cleric Traits]({{ site.baseurl }}/villager_traits/CLERIC)
+- [Farmer Traits]({{ site.baseurl }}/villager_traits/FARMER)
 - [Fisherman Traits]({{ site.baseurl }}/villager_traits/FISHERMAN)
+- [Fletcher Traits]({{ site.baseurl }}/villager_traits/FLETCHER)
+- [Leatherworker Traits]({{ site.baseurl }}/villager_traits/LEATHERWORKER)
+- [Librarian Traits]({{ site.baseurl }}/villager_traits/LIBRARIAN)
+- [Mason Traits]({{ site.baseurl }}/villager_traits/MASON)
 - [Nitwit Traits]({{ site.baseurl }}/villager_traits/NITWIT)
 - [Shepherd Traits]({{ site.baseurl }}/villager_traits/SHEPHERD)
+- [Toolsmith Traits]({{ site.baseurl }}/villager_traits/TOOLSMITH)
+- [Unemployed Villager Traits]({{ site.baseurl }}/villager_traits/NONE)
+- [Weaponsmith Traits]({{ site.baseurl }}/villager_traits/WEAPONSMITH)
 
 The villager traits system transforms Minecraft villages from simple trading posts into living communities filled with unique individuals. Take the time to get to know your villagers - you might be surprised by the depth and variety of personalities you'll discover!
