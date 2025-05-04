@@ -13,12 +13,11 @@ permalink: /
 ## What is Alive Mod?
 
 Alive brings villagers to life through AI conversations and enhances both the utility and narrative depth of the game. Whether you need practical advice on crafting and gameplay mechanics or wish to weave intricate lore and RPG-style interactions, Alive Mod brings your world to life.
+Powered by the Baarilliant.ai Gaming Gateway
 
-### Powered by the baarilliant.ai gaming gateway.
+We are really excited to hear from you if you’ve got complex requirements or want to add AI to your own mod without dealing with API keys, safeguards, and anti-abuse measures. Reach out to our team at the email above!
 
-We are super interested in hearing from you if you have more complex requirments, or to integrate AI into your own mod without managing API keys, safeguards, and anti-abuse measures, contact the team at the email above.
-
-We can integrate AI safely into your mod in les than 15minutes, with no hastle for your users.
+We can integrate AI into your mod in less than 15 minutes, with no hassle for your users.
 
 ### Supported Countries
 
