@@ -10,10 +10,6 @@ permalink: /capabilities/
 
 The Alive mod adds several special abilities that enhance your interactions with villagers. These capabilities make villagers more interactive and lifelike, giving you a more immersive Minecraft experience.
 
-{: .important }
-
-> Currently, Capabilities only affect the conversation style and have no effect on the game itself.
-
 ## Available Capabilities
 
 ### [Chat Links]({{ site.baseurl }}/capabilities/CHAT_LINKS)
