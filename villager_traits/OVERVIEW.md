@@ -11,6 +11,10 @@ nav_order: 1
 
 In the Alive mod, villager traits are the characteristics, personalities, and behaviors that make each villager unique and lifelike. These traits are determined by the villager's profession and create a rich, immersive experience when interacting with villagers.
 
+{: .important }
+
+> Currently, Villager Traits only affect the conversation style and have no effect on the game.
+
 ## How the Trait System Works
 
 Every villager in Minecraft has a profession (Farmer, Librarian, etc.). In the Alive mod, each profession has its own set of possible traits that reflect that profession's role in the village. For example, Farmers have traits related to agriculture and weather, while Librarians have traits related to knowledge and books.
