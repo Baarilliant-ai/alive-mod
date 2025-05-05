@@ -17,6 +17,7 @@ This Getting Started guide is divided into several pages to help you get up and 
 - [Game Modes]({{ site.baseurl }}/getting_started/MODES): Understanding Adventure vs. Creative mode
 - [Quick Start Guide]({{ site.baseurl }}/getting_started/QUICK_START): Basic usage instructions
 - [External Resources]({{ site.baseurl }}/getting_started/RESOURCES): Links to community and support resources
+- [Data Packs]({{ site.baseurl }}/getting_started/DATAPACKS): Learn about customizing the mod with data packs
 
 ## Basic Usage
 
@@ -40,6 +41,9 @@ For more details on the differences between these modes, see the [Game Modes]({{
 
 ## Next Steps
 
-After getting familiar with the basics, explore the [Villager Traits]({{ site.baseurl }}/villager-traits/) section to learn about the different personalities and characteristics of villagers based on their professions.
+After getting familiar with the basics, explore these sections:
+
+- [Villager Traits]({{ site.baseurl }}/villager-traits/): Learn about the different personalities and characteristics of villagers based on their professions
+- [Data Packs]({{ site.baseurl }}/datapacks/): Discover how to customize the mod using data packs without changing any code
 
 For additional help and to connect with other users, join the [Alive Discord community](https://discord.gg/7KVqSQ3XXK).

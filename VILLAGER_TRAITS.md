@@ -7,6 +7,12 @@ permalink: /villager-traits/
 
 # Villager Traits in the Alive Mod
 
+The Alive mod brings your Minecraft villagers to life with unique personalities and traits based on their profession. This guide explains how the villager traits system works and what makes each villager unique.
+
+{: .note }
+
+> Villager traits are now fully customizable through [data packs]({{ site.baseurl }}/datapacks/)! You can create your own unique villager personalities without changing any code.
+
 {: .important }
 
 > Currently, Villager Traits only affect the conversation style and have no effect on the game.
