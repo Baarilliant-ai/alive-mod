@@ -20,6 +20,10 @@ When talking to villagers, they'll suggest possible responses for you to choose 
 
 Villagers can ask you questions during your conversations. If you answer correctly, they might reward you with items, knowledge, or other benefits. Each villager has different knowledge based on their profession.
 
+### [Find Villager]({{ site.baseurl }}/capabilities/FIND)
+
+Ask the AI villager to locate another specific villager by name within the vicinity. The found villager will glow briefly, making them easy to spot. Requires the target villager to have a custom name.
+
 ### [Goodbye]({{ site.baseurl }}/capabilities/GOODBYE)
 
 When you're done talking to a villager, you can properly say goodbye. This helps build your relationship with the villager and they'll remember your interaction for next time. Building good relationships with villagers can lead to better trades and more helpful interactions.
@@ -41,6 +45,18 @@ You can ask villagers about the mod itself. They'll tell you who made the mod (b
 ### [Open Trade Menu]({{ site.baseurl }}/capabilities/OPEN_TRADE)
 
 During your conversation with a villager, you can easily open their trading menu. This allows you to see and interact with the villager's available trades without having to end the conversation. This only works with villagers who have trades available.
+
+### [Resume Activity]({{ site.baseurl }}/capabilities/RESUME)
+
+Allows you to tell a waiting villager to stop waiting and return to their normal activities.
+
+### [Wait]({{ site.baseurl }}/capabilities/WAIT)
+
+Instruct a villager to stop following you and remain stationary at their current location.
+
+### [Who Is About]({{ site.baseurl }}/capabilities/WHO_IS_ABOUT)
+
+Ask the AI villager for a summary of other known villagers (from the mod's data store) who are currently present in the world, regardless of distance.
 
 ## How to Use Capabilities
 
